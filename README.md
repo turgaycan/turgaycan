@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @turgaycan
 - 👀 I’m interested in solving distributed system problems
 - 🌱 I’m currently learning developing data densitive applications in heavy load in distributed environment 
-- 💞️ I’m looking to collaborate on increase somehow developer problems  performance,  
+- 💞️ I’m looking to collaborate on increasing somehow developer problems  performance 
 - 📫 How to reach me turgay.can@yandex.com.tr
 
 <!---
