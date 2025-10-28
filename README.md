@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @turgaycan
 - 👀 I’m interested in solving distributed system problems, using Docker, Kubernetes tools, actively developing feature of the products in Inomera.
-- 🌱 I’m currently learning developing data densitive applications in heavy load in distributed environment 
+- 🌱 I’m currently learning developing data densitive applications in heavy load in distributed environment
+- 💞️💞️ Developing AI based Application, work with vector db, graph db, agentic ai, interested in GOAF, HTN using in real world application.
 - 💞️ I’m looking to collaborate on increasing somehow developer performance problems
 - 📫 How to reach me turgay.can@yandex.com.tr
 
